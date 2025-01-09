@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+ariadne = "0.5.0"
+chumsky = "1.0.0-alpha.7"
+logos = "0.15.0"
+strum_macros = "0.26.4"
+strum = "0.26.3"
